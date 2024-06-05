@@ -2,7 +2,7 @@
 
 Meu nome é Ana Heloísa 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Ana Heloísa
 - 
 - @heloisayz_
 
-![](https://media1.tenor.com/m/-4sFn9YEcI8AAAAd/monkey-artificialbloom.gif)
+![](https://media1.tenor.com/m/a592WZrFduMAAAAC/missmlsery-baby-monkey.gif)
